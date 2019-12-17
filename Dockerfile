@@ -22,3 +22,4 @@ ADD . /research/transformer
 WORKDIR /research/transformer
 RUN pip3 install -r requirements.txt
 ENTRYPOINT ["/bin/bash"]
+
